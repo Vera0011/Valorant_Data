@@ -1,0 +1,11 @@
+{
+    "name": "@veeraa/valorant_data",
+    "version": "1.0.0",
+    "description": "A Valorant NPM module who integrates all the stuff from Valorant",
+    "main": "src/main.js",
+    "author": "Vera",
+    "license": "Apache 2.0",
+    "dependencies": {
+        "fs": "^0.0.1-security"
+    }
+}
