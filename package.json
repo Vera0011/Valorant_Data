@@ -1,5 +1,5 @@
 {
-    "name": "@veraa/valorant_data",
+    "name": "@veraa/valorant-data",
     "version": "1.0.3",
     "description": "A Valorant NPM module who integrates all the stuff from Valorant",
     "main": "src/main.js",
