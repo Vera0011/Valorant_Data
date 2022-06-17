@@ -1,11 +1,26 @@
 {
     "name": "@veeraa/valorant_data",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "description": "A Valorant NPM module who integrates all the stuff from Valorant",
     "main": "src/main.js",
+    "scripts": {
+        "dev": "nodemon src/main.js",
+        "start": "node src/main.js"
+    },
     "author": "Vera",
-    "license": "Apache 2.0",
+    "license": "ISC",
     "dependencies": {
         "fs": "^0.0.1-security"
-    }
+    },
+    "keywords": [
+        "Valorant", "Info", "NPM"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Vera0011/Valorant_data.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Vera0011/Valorant_data/issues"
+    },
+    "homepage": "https://github.com/Vera0011/Valorant_data#readme"
 }
